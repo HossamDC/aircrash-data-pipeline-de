@@ -166,5 +166,5 @@ target/
 ---
 
 ## 🎓 Credit
-Project built by [YOUR NAME] as part of the [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp).
+Project built by Hossam as part of the [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp).
 
