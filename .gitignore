@@ -1,0 +1,9 @@
+# Terraform state & credentials
+*.tfstate
+*.tfstate.*
+*.tfvars
+.override.tfvars
+
+# AWS keypair (if you check it in)
+*.pem
+

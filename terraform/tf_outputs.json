@@ -1,0 +1,27 @@
+{
+  "emr_master_public_dns": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ec2-35-87-52-116.us-west-2.compute.amazonaws.com"
+  },
+  "redshift_db": {
+    "sensitive": false,
+    "type": "string",
+    "value": "demo_db"
+  },
+  "redshift_host": {
+    "sensitive": false,
+    "type": "string",
+    "value": "demo-cluster.cnp6ksjha1o5.us-west-2.redshift.amazonaws.com:5439"
+  },
+  "redshift_user": {
+    "sensitive": false,
+    "type": "string",
+    "value": "admin"
+  },
+  "ssh_command_to_emr": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ssh -i my-key-pair-EMR.pem hadoop@ec2-35-87-52-116.us-west-2.compute.amazonaws.com"
+  }
+}
