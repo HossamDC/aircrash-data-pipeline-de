@@ -49,6 +49,7 @@ The objective of this pipeline is to build a reliable and scalable data platform
 - Tasks include: Terraform apply, pulling data, Spark job on EMR, Redshift schema/table creation, dbt model runs, and test jobs
 
 ![image](https://github.com/user-attachments/assets/3c754791-6a4f-443e-9899-9c188d02f556)
+![image](https://github.com/user-attachments/assets/f9f3643d-9d5b-4289-a576-f26da27465cf)
 
 ### 🚧 Infrastructure (Terraform)
 - Creates S3 bucket, EMR cluster, Redshift cluster, IAM roles
